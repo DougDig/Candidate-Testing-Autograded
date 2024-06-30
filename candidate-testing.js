@@ -62,6 +62,7 @@ if (grade>60) {
   return grade;
 }
 
+
 function runProgram() {
   askForName();
   // TODO 1.1c: Greet candidate using their name //
